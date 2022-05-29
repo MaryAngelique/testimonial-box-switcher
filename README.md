@@ -17,11 +17,7 @@
 
 Users should be able to:
 
-#### - 
-
-#### - 
-
-#### - 
+#### - See different testinonial cards at a time limit
 
 ### Features
 
@@ -33,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Testimonial Box Switcher GitHub Solution](https://github.com/MaryAngelique/testimonial-box-switcher)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
