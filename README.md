@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Testimonial Box Switcher GitHub Solution](https://github.com/MaryAngelique/testimonial-box-switcher)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Testimonial Box Switcher Website](https://testimonial-box-switcher.vercel.app/)
 
 ## My process
 
